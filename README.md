@@ -2,7 +2,7 @@
 
 <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
 
-<a href="www.baidu.com">![Static Badge](https://img.shields.io/badge/weibo-%E5%BE%AE%E5%8D%9A-blue) </a>
+<a target="_blank" href="http://www.baidu.com">![Static Badge](https://img.shields.io/badge/weibo-%E5%BE%AE%E5%8D%9A-blue) </a>
 
 
 <!--

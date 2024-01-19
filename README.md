@@ -1,6 +1,6 @@
 ### 👋
 
-<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=console.log('wuxian');wuxian;welcome+to+my+github)](https://git.io/typing-svg)</p>
+<span align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=console.log('wuxian');wuxian;welcome+to+my+github)](https://git.io/typing-svg)</span>
 
 <span align="center"><img style="width: '300px';" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"></span>
 

@@ -13,7 +13,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/996wuxian/996wuxian/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center"> https://metrics.lecoq.io/996wuxian?template=classic&isocalendar=1&stargazers=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&config.timezone=Asia%2FShanghai </div>
+<div align="center"> <img src="https://metrics.lecoq.io/996wuxian?template=classic&isocalendar=1&stargazers=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&config.timezone=Asia%2FShanghai"> </div>
 
 
 
